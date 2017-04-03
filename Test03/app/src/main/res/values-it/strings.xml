@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Esperimento3</string>
+    <string name="result">Risultato</string> //lo faccio per supportare la localizzazione
+</resources>
