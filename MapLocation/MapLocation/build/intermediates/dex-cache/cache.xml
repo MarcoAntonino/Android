@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\antoninom\Downloads\MapLocation\MapLocation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\antoninom\Downloads\MapLocation\MapLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c1911c2686ff4bf41cd6c15f732eadc8a1c75fe7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antoninom\Downloads\MapLocation\MapLocation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f63ee8eae50e0038015466b5233580012c1e4ce9">
+        <dex dex="C:\Users\antoninom\Downloads\MapLocation\MapLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a6b93144e2beb856de54b01305892c9a40538960\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Mon Apr 10 15:19:19 CEST 2017
+2.base=C\:\\Users\\antoninom\\Downloads\\MapLocation\\MapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\antoninom\\Downloads\\MapLocation\\MapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\antoninom\\Downloads\\MapLocation\\MapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\antoninom\\Downloads\\MapLocation\\MapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a6b93144e2beb856de54b01305892c9a40538960\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\antoninom\\Downloads\\MapLocation\\MapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c1911c2686ff4bf41cd6c15f732eadc8a1c75fe7
+count=7
+0.file=C\:\\Users\\antoninom\\Downloads\\MapLocation\\MapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\main.xml
+5.base=C\:\\Users\\antoninom\\Downloads\\MapLocation\\MapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+6.base=C\:\\Users\\antoninom\\Downloads\\MapLocation\\MapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a6b93144e2beb856de54b01305892c9a40538960
+1.file=C\:\\Users\\antoninom\\Downloads\\MapLocation\\MapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\antoninom\\Downloads\\MapLocation\\MapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+6.set=DEX
+0.base=C\:\\Users\\antoninom\\Downloads\\MapLocation\\MapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\antoninom\\Downloads\\MapLocation\\MapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\antoninom\\Downloads\\MapLocation\\MapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\antoninom\\Downloads\\MapLocation\\MapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c1911c2686ff4bf41cd6c15f732eadc8a1c75fe7\\classes.dex
+0.set=ANDROID_RESOURCE

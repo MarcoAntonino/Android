@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Mon Apr 10 17:10:20 CEST 2017
+2.base=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4420fe491240c385c2b033089cfeeb4a07066ab9
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_faac9931cde1c58cecd5eeab192b152977b734d4
+count=6
+0.file=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.base=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+1.file=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.base=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4420fe491240c385c2b033089cfeeb4a07066ab9\\classes.dex
+3.set=DEX
+1.base=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_faac9931cde1c58cecd5eeab192b152977b734d4\\classes.dex
+0.set=ANDROID_RESOURCE

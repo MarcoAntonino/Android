@@ -1,0 +1,7 @@
+#Mon Apr 10 17:54:20 CEST 2017
+base.0=C\:\\Users\\antoninom\\Downloads\\MusicPlayingServiceExample\\MusicPlayingServiceExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d0bc3769ee4fa3cd970c4f1163c5d3bdb478eec5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\antoninom\\Downloads\\MusicPlayingServiceExample\\MusicPlayingServiceExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2e813a11ac16dbdaf246427f94f0aea63f8365ba\\classes.dex
+base.1=C\:\\Users\\antoninom\\Downloads\\MusicPlayingServiceExample\\MusicPlayingServiceExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2e813a11ac16dbdaf246427f94f0aea63f8365ba
+file.0=C\:\\Users\\antoninom\\Downloads\\MusicPlayingServiceExample\\MusicPlayingServiceExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d0bc3769ee4fa3cd970c4f1163c5d3bdb478eec5\\classes.dex

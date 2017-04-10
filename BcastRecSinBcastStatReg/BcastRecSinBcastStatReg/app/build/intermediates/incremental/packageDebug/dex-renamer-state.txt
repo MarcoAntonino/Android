@@ -1,0 +1,7 @@
+#Mon Apr 10 17:10:20 CEST 2017
+base.0=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_faac9931cde1c58cecd5eeab192b152977b734d4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4420fe491240c385c2b033089cfeeb4a07066ab9\\classes.dex
+base.1=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4420fe491240c385c2b033089cfeeb4a07066ab9
+file.0=C\:\\Users\\antoninom\\Downloads\\BcastRecSinBcastStatReg\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_faac9931cde1c58cecd5eeab192b152977b734d4\\classes.dex
